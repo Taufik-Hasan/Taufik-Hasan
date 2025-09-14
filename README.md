@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Taufik-Hasan
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Cpp, java, Android
-- 💞️ I’m looking to collaborate on C++ and Java
 - 📫 How to reach me taufik.cse.bd@gmail.com
 
 <!---
